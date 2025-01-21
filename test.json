@@ -1,0 +1,35 @@
+{
+    "full_text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas condimentum dignissim massa, eu egestas enim pharetra non. Pellentesque fermentum, elit sed iaculis blandit, neque dui imperdiet dolor, a consequat enim ex et tellus. Donec pulvinar est orci, quis ornare massa vehicula vitae. Nulla diam risus, rutrum eget nulla eu, consectetur fermentum ligula. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Suspendisse leo velit, pulvinar nec dui id, feugiat elementum sem. Mauris id quam vel nunc vehicula ornare. Etiam consequat vitae felis quis elementum. Cras rutrum vitae velit vitae imperdiet. Donec justo sapien, pellentesque in dui ut, euismod imperdiet turpis. Curabitur vitae nibh turpis. Integer et dictum eros, in ultricies nunc. Morbi sagittis sem eleifend ex dictum lacinia. Quisque libero arcu, aliquam vitae orci a, hendrerit blandit est. Pellentesque feugiat orci nulla, non cursus elit tempor id. In eu laoreet neque, eget ornare purus. Suspendisse blandit tellus ac risus tincidunt placerat. Sed urna nibh, interdum ut turpis eget, gravida varius sem. Curabitur in nisi imperdiet, aliquet lorem vitae, convallis urna. Donec at massa non magna tempor cursus a vel massa. Ut bibendum fringilla lacus, id venenatis ante vestibulum at. Curabitur sit amet ullamcorper ligula, in consequat mi.",
+    "annotation": [
+        {
+            "text": "d iaculis blandit, neque ",
+            "class_name": "Automotive",
+            "start": "156",
+            "end": "180"
+        },
+        {
+            "text": "elit sed iaculis blandit, neque dui imperd",
+            "class_name": "Non-profit",
+            "start": "149",
+            "end": "190"
+        },
+        {
+            "text": "ulis bl",
+            "class_name": "American Red Cross",
+            "start": "161",
+            "end": "167"
+        },
+        {
+            "text": " nequ",
+            "class_name": "Person",
+            "start": "174",
+            "end": "178"
+        },
+        {
+            "text": "s blandit, ne",
+            "class_name": "English",
+            "start": "164",
+            "end": "176"
+        }
+    ]
+}
